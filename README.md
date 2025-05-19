@@ -1,8 +1,26 @@
-# React + Vite
+👨‍💼 Employee Management System
+Employee Management System is a lightweight React-based web application built with Vite that allows you to manage employee records seamlessly. 
+It uses the browser's localStorage for data persistence, making it perfect for small-scale or demo projects without the need for a backend server.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+✅ Add new employees
 
-Currently, two official plugins are available:
+📄 View employee list
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✏️ Update employee information
+
+🗑️ Delete employee records
+
+⚙️ Data stored in browser’s localStorage
+
+📱 Responsive and minimal UI
+
+🛠️ Tech Stack
+Framework: React (with Vite)
+
+State Management: useState, useEffect
+
+Storage: localStorage
+
+Styling: CSS / Tailwind (optional)
+![Screenshot 2025-05-19 160028](https://github.com/user-attachments/assets/5988f57a-4caa-4281-af46-a614857723af)
