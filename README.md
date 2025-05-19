@@ -3,6 +3,7 @@ Employee Management System is a lightweight React-based web application built wi
 It uses the browser's localStorage for data persistence, making it perfect for small-scale or demo projects without the need for a backend server.
 
 ✨ Features
+
 ✅ Add new employees
 
 📄 View employee list
@@ -22,5 +23,5 @@ State Management: useState, useEffect
 
 Storage: localStorage
 
-Styling: CSS / Tailwind (optional)
+Styling: Tailwind
 ![Screenshot 2025-05-19 160028](https://github.com/user-attachments/assets/5988f57a-4caa-4281-af46-a614857723af)
